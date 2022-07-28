@@ -1,7 +1,10 @@
-package com.rbc.ResourceServer.token;
-
-public enum TokenType {
-	
-	ACCESS_TOKEN;
-
-}
+//package com.rbc.ResourceServer.token;
+//
+//public enum TokenType {
+//	
+//	/**
+//	 * Enumeration for token type
+//	 */
+//	ACCESS_TOKEN;
+//
+//}

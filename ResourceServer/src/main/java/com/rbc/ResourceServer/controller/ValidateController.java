@@ -8,6 +8,6 @@ public class ValidateController {
 
 	@RequestMapping("/test")
 	public String test() {
-		return "Hello World";
+		return "Token is valid!";
 	}
 }
