@@ -1,0 +1,9 @@
+spring:
+  security:
+    ignored: "/actuator/**"
+
+server:
+  port: 9000
+
+jwk:  https://login.windows.net/common/discovery/keys
+resource:  api://5d7e7fa0-2c7a-42f4-b5b8-887e00ae980a
